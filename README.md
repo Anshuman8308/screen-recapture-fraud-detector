@@ -158,13 +158,10 @@ This launches a browser interface where images can be uploaded for real-time pre
 
 ## Live Demo
 
-Deployed application:
-
 ```text
-[<your_huggingface_link_here>](https://anshuman83-screen-recapture-photo-fraud-detector.hf.space)
+https://anshuman83-screen-recapture-photo-fraud-detector.hf.space
 ```
 
----
 
 ## Possible Improvements
 
