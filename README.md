@@ -109,8 +109,8 @@ Inference latency:
 Clone repository:
 
 ```bash
-git clone <your_repo_link>
-cd <repo_name>
+git clone https://github.com/Anshuman8308/screen-recapture-fraud-detector.git
+cd screen-recapture-fraud-detector
 ```
 
 Install dependencies:
@@ -161,7 +161,7 @@ This launches a browser interface where images can be uploaded for real-time pre
 Deployed application:
 
 ```text
-<your_huggingface_link_here>
+[<your_huggingface_link_here>](https://anshuman83-screen-recapture-photo-fraud-detector.hf.space)
 ```
 
 ---
