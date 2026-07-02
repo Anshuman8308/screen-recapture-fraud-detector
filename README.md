@@ -76,7 +76,7 @@ Dataset collected manually:
 Evaluation results:
 
 ```text
-Held-out Test Accuracy: 95%+
+Held-out Test Accuracy: >95%
 5-Fold Cross Validation Accuracy: 93.6%
 ```
 
@@ -98,8 +98,8 @@ Inference latency:
 ├── model.pkl
 ├── scaler.pkl
 ├── feature_names.pkl
-├── requirements.txt
-└── dataset/
+├── requirements.txt/
+
 ```
 
 ---
@@ -158,9 +158,7 @@ This launches a browser interface where images can be uploaded for real-time pre
 
 ## Live Demo
 
-```text
-https://anshuman83-screen-recapture-photo-fraud-detector.hf.space
-```
+[Launch Live Demo](https://anshuman83-screen-recapture-photo-fraud-detector.hf.space)
 
 
 ## Possible Improvements
